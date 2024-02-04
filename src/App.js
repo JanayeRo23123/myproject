@@ -2,7 +2,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/navbar';
-import Navbar from './components/footer';
+import Footer from './components/footer';
 import QuantityPicker from './components/quantityPicker';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Footer/>
       <QuantityPicker/>
 
-      
+
     </div>
   );
 }

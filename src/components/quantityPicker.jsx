@@ -8,7 +8,7 @@ function QuantityPicker()
     }
     //create the increase function
     function increase(){
-        console.log("Increasing");g("Increasing");
+        console.log("Increasing");
     }
 
     return(
